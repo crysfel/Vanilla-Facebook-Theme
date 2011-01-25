@@ -1,5 +1,9 @@
 How to create a theme:
 
+Installing:
+================================================================================
+Copy and paste the "Vanilla-Facebook-Theme" to your vanilla installation, rename the folder to "tweetmylove" or modify the "about.php" file with the right folder name.
+
 Part 1: CSS / Design
 ================================================================================
 1. Copy this "default" theme folder and rename it to your new theme name.
